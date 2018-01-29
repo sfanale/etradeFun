@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-9">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/Stephen/Downloads/All_Jar (1)/etws-accounts-sdk-1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Stephen/Downloads/All_Jar (1)/etws-common-connections-1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Stephen/Downloads/All_Jar (1)/etws-market-sdk-1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Stephen/Downloads/All_Jar (1)/etws-oauth-sdk-1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Stephen/Downloads/All_Jar (1)/etws-order-sdk-1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Stephen/Downloads/xstream-1.4.9.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Stephen/Downloads/commons-httpclient-contrib-ssl-3.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Stephen/eclipse-workspace/Etrade/Lib/log4j-1.2.17/apache-log4j-1.2.17/log4j-1.2.17.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Stephen/eclipse-workspace/Etrade/Lib/commons-codec-1.9-bin/commons-codec-1.9/commons-codec-1.9.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Stephen/eclipse-workspace/Etrade/Lib/commons-httpclient-3.1/commons-httpclient-3.1/commons-httpclient-3.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Stephen/eclipse-workspace/Etrade/Lib/commons-lang3-3.7-bin/commons-lang3-3.7/commons-lang3-3.7.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Stephen/eclipse-workspace/Etrade/Lib/commons-logging-1.2-bin/commons-logging-1.2/commons-logging-1.2.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
